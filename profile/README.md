@@ -1,5 +1,13 @@
 # Welcome to Metanomic
 
+Important resources
+
+- [Metanomic-SDK](https://github.com/Metanomic/metanomic-sdk) - Our SDK toolkit to connect with Metanomic
+- [Public Data](https://github.com/Metanomic/metanomic-paradigms) - Paradigms of our AI inference applied on game data
+- [Eventing Calaogue](http://eventcatalog.metanomic.net/)
+- [Thunderstruck Quick Start Guide - Beta](https://metanomic.notion.site/Thunderstruck-Quick-Start-Guide-Beta-356cc5016eff44278248474c96bd1fd1)
+- [Player Types Classifications](https://metanomic.notion.site/Player-Types-Classifications-6006ba06e078492aa7cf71b993de50a9)
+
 ## The Metanomic Product
 
 Metanomic helps virtual-world creators make smarter decisions from the evolving stories that data tells about what keeps people engaged in their Metaverse.
@@ -17,11 +25,3 @@ With Thunderstruck API, you can send your first-party in-gaming data, as events 
 When Thunderstruck generates the category insights, based on your interaction data, you can send it (often in real-time) to your marketing, product, and analytics (BI) tools, as well as to data warehouses.
 
 ![image](https://user-images.githubusercontent.com/434149/196810573-7d5666e8-95e1-4b0a-806b-55b1cee545ed.png)
-
-Important repositories
-
-- [Metanomic-SDK](https://github.com/Metanomic/metanomic-sdk) - Our SDK toolkit to connect with Metanomic
-- [Public Data](https://github.com/Metanomic/metanomic-paradigms) - Paradigms of our AI inference applied on game data
-- [Eventing Calaogue](http://eventcatalog.metanomic.net/)
-- [Thunderstruck Quick Start Guide - Beta](https://metanomic.notion.site/Thunderstruck-Quick-Start-Guide-Beta-356cc5016eff44278248474c96bd1fd1)
-- [Player Types Classifications](https://metanomic.notion.site/Player-Types-Classifications-6006ba06e078492aa7cf71b993de50a9)
